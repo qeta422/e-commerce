@@ -2,8 +2,6 @@ import product1 from "./assets/watch_black.jpg";
 import product2 from "./assets/polaroid.jpg";
 import product3 from "./assets/vynylplayer.jpg";
 import product4 from "./assets/skincare.jpg";
-import product5 from "./assets/watch_gold.jpg";
-import product6 from "./assets/plates.jpg";
 import product7 from "./assets/phone.jpg";
 import product8 from "./assets/smartwatch.jpg";
 import product9 from "./assets/makeup.jpg";
@@ -12,7 +10,6 @@ import product11 from "./assets/headset.jpg";
 import product12 from "./assets/camera.jpg";
 import product13 from "./assets/book.jpg";
 import product14 from "./assets/makeup2.jpg";
-import product15 from "./assets/booklight2.jpg";
 import product16 from "./assets/album.jpg";
 export const PRODUCTS = [
     {
@@ -41,20 +38,6 @@ export const PRODUCTS = [
         name: "Retinol Serum for Post-Acne Marks and Skin Texture",
         price: 28.0,
         img: product4,
-    },
-
-    {
-        id: 5,
-        name: "Women's Crystal Accented Bracelet Watch",
-        price: 76.0,
-        img: product5,
-    },
-
-    {
-        id: 6,
-        name: "Gibson Home Dinnerware Set",
-        price: 34.99,
-        img: product6,
     },
 
     {
@@ -111,13 +94,6 @@ export const PRODUCTS = [
         name: "wet n wild Lipstick Mega Last High-Shine Lipstick",
         price: 7.0,
         img: product14,
-    },
-
-    {
-        id: 15,
-        name: "Book Light LED Reading Light",
-        price: 16.99,
-        img: product15,
     },
 
     {
