@@ -1,0 +1,41 @@
+.navbar {
+    width: 900px;
+    height: 80px;
+    margin: auto;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    z-index: 999;
+    top: -10px;
+    box-shadow: 0 6px 15px 1px rgba(75, 74, 74, 0.5);
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.menu {
+    width: 30%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    list-style-type: none;
+}
+
+.links {
+    margin-right: 50px;
+    display: flex;
+    align-items: center;
+}
+
+.links a {
+    margin-left: 20px;
+}
+
+
+
