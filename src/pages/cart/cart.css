@@ -40,12 +40,18 @@
     font-weight: bolder;
 }
 
+.checkout button:hover {
+    background-color: white;
+    color: rgb(19, 19, 19);
+    border: 1px solid rgb(19, 19, 19);
+    transition: .7s;
+}
+
 .checkout button {
     width: 150%;
     height: 50px;
     background-color: rgb(19, 19, 19);
     color: white;
-    border: none;
     border-radius: 8px;
     margin: 10px;
     cursor: pointer;
